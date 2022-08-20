@@ -4,3 +4,9 @@
 [submodule "blog/content/posts"]
 	path = blog/content/posts
 	url = https://github.com/bobtronic/blog-posts.git
+[submodule "blog/themes/congo"]
+	path = blog/themes/congo
+	url = https://github.com/bobtronic/congo.git
+[submodule "blog/themes/tale"]
+	path = blog/themes/tale
+	url = https://github.com/bobtronic/tale-hugo.git
